@@ -14,7 +14,7 @@ import subprocess
 from datetime import datetime
 import os
 
-st.set_page_config(page_title = "Bohmian's Stock News Sentiment Analyzer", layout = "wide")
+st.set_page_config(page_title = "Stock News Sentiment Analyzer", layout = "wide")
 
 
 def get_news(ticker):
