@@ -1,0 +1,8 @@
+streamlit==1.11.1
+pandas
+nltk
+urllib3
+bs4
+plotly
+gunicorn
+psycopg2-binary
