@@ -107,7 +107,7 @@ def plot_daily_sentiment(parsed_and_scored_news, ticker):
 finviz_url = 'https://finviz.com/quote.ashx?t='
 
 
-st.header("Bohmian's Stock News Sentiment Analyzer")
+st.header("Stock News Sentiment Analyzer")
 
 ticker = st.text_input('Enter Stock Ticker', '').upper()
 
